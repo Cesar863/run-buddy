@@ -13,4 +13,4 @@ https://cesar863.github.io/run-buddy/
 ## Contrbution
 Made with ❤️ by Cesar Martinez
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 

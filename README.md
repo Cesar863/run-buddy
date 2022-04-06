@@ -1,6 +1,6 @@
 # Run Buddy
 
-### Github: https://github.com/run-buddy
+### Github: https://github.com/cesar863/run-buddy
 
 ### Deployed: https://cesar863.github.io
 /run-buddy/

@@ -2,8 +2,7 @@
 
 ### Github: https://github.com/cesar863/run-buddy
 
-### Deployed: https://cesar863.github.io
-/run-buddy/
+### Deployed: https://cesar863.github.io/run-buddy
 
 ## Description
 a website that offers fitness training services created using HTML and CSS.
